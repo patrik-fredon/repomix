@@ -52,7 +52,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@clack/prompts": "^0.8.1",
+    "@clack/prompts": "^0.10.0",
     "@secretlint/core": "^9.0.0",
     "@secretlint/secretlint-rule-preset-recommend": "^9.0.0",
     "cli-spinners": "^2.9.2",
