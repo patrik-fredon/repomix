@@ -53,7 +53,7 @@
   "type": "module",
   "dependencies": {
     "@clack/prompts": "^0.8.1",
-    "@secretlint/core": "^9.0.0",
+    "@secretlint/core": "^9.3.2",
     "@secretlint/secretlint-rule-preset-recommend": "^9.3.2",
     "cli-spinners": "^2.9.2",
     "clipboardy": "^4.0.0",
